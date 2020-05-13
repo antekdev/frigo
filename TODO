@@ -1,0 +1,19 @@
+ProductItem: 
+    create
+    change brightness on click
+    emit 'mutate possessed products' on click
+FridgeComponent:
+    ProductIcons instead of img elements
+    GraphQL mutation on click
+
+RecipesView:
+    routing favorites, cook and buy tabs
+
+BuyView:
+    GraphQL query all recipes on init
+
+RecipeListItem
+    create and style
+
+WHY MUTATION PRODUCT.NAME IS EMPTY
+
